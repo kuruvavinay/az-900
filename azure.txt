@@ -1,0 +1,133 @@
+Multi-cloud : 
+A fourth, and increasingly likely scenario is a multi-cloud scenario. In a multi-cloud scenario, you use multiple public cloud providers.
+ Maybe you use different features from different cloud providers. Or maybe you started your cloud journey with one provider and are in the
+ process of migrating to a different provider. Regardless, in a multi-cloud environment you deal with two (or more) public cloud providers
+ and manage resources and security in both environments.
+
+Azure Arc :
+Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment,
+whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment
+running on multiple cloud providers at once.
+
+Azure VMware Solution : 
+What if you’re already established with VMware in a private cloud environment but
+want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure
+with seamless integration and scalability.
+
+PAAS :
+Analytics or business intelligence: Tools provided as a service with PaaS allow organizations to analyze and mine their data,
+finding insights and patterns and predicting outcomes to improve forecasting, product design decisions, investment returns,
+and other business decisions.
+
+While Azure PowerShell uses PowerShell commands, the Azure CLI uses Bash commands.
+
+azure load balancer : 
+distribute traffic to multiple servers in one or datacenter,if datacenter is not available it will route to available datacenter only
+
+Point-to-site virtual private network connections are from a computer outside your organization back into your corporate network.
+In this case, the client computer initiates an encrypted VPN connection to connect to the Azure virtual network.
+
+Site-to-site virtual private networks link your on-premises VPN device or gateway to the Azure VPN gateway in a virtual network.
+In effect, the devices in Azure can appear as being on the local network. The connection is encrypted and works over the internet.
+
+Azure ExpressRoute provides a dedicated private connectivity to Azure that doesn't travel over the internet.
+ExpressRoute is useful for environments where you need greater bandwidth and even higher levels of security.
+
+User-defined routes (UDR) allow you to control the routing tables between subnets within a virtual network or between virtual networks.
+This allows for greater control over network traffic flow.
+
+vertical scaling :
+upgrading to the bigger server
+
+horizontal scaling :
+add more servers of the same size
+adding resources are controlled by this type of scaling
+
+azure vm scale sets :
+automatically increase or decreases of the demand source
+
+DDoS Protection Standard does provide real-time attack metrics.
+
+region is a group of multiple datacenters have 58 regions over 140 conuntries
+
+Geography is discreet market of two or more regions that preserves data residency ad compliance boundaries ex : canda, us 
+
+azure geo-redundant storages : replicates data to a secondary region automatically, ensuring that data is durable even in the event  that the primary region isnt recoverable
+
+a region will generally contain 3 availablity zones
+
+A VPN gateway is a specific type of virtual network gateway that is used to send encrypted traffic between an Azure virtual network and
+an on-premises location over the public Internet.
+
+The Pricing Calculator is used to determine the exact costs of specific Azure services.
+
+Application Insights, a feature of Azure Monitor, is an extensible Application Performance Management (APM) service for developers and DevOps professionals.
+Use it to monitor your live applications. It will automatically detect performance anomalies and includes powerful analytics tools to help you
+diagnose issues and to understand what users actually do with your app.
+
+Azure Synapse Analytics is a data warehouse and big data analytics. So it technically does perform analytics, but its a managed solution
+ it does not build, test, and deploying custom analytics solutions.
+
+Azure release their apps as Private preview, Public preview and then General availability
+
+Azure advisor makes recommendations on the following 5 categories:
+High Availability
+Security
+Performance
+Cost
+Operational Excellence
+
+A network security group contains security rules that allow or deny inbound network traffic to,
+ or outbound network traffic from, several types of Azure resource
+
+IoT Central is an IoT application platform that reduces the burden and cost of developing, managing, and maintaining enterprise-grade IoT solutions.
+The web UI lets you monitor device conditions, create rules, and manage millions of devices and their data throughout their life cycle
+
+The Cloud Adoption Framework is a collection of documentation, implementation guidance, best practices, and tools that are proven guidance from Microsoft
+designed to accelerate your cloud adoption journey.
+
+Azure IAM is Azure Role-Based Access control (RBAC). Work for Azure subscription, to manage Azure resources.
+
+A local network gateway represents the hardware or software VPN device in your local network. Use this with a connection to set up a site-to-site VPN connection
+between an Azure virtual network and your local network.
+
+Azure Monitor helps you maximize the availability and performance of your applications and services. It delivers a comprehensive solution for collecting, analyzing,
+and acting on telemetry from your cloud and on-premises environments.
+
+Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications.
+
+Azure Databricks is a fast, easy, and collaborative Apache Spark-based big data analytics service designed for data science and data engineering.
+It is the only option that can host machine learning workloads.
+
+Azure Blobs: A massively scalable object store for text and binary data. Also includes support for big data analytics through Data Lake Storage Gen2.
+
+Azure Files: Managed file shares for cloud or on-premises deployments.
+
+Azure Queues: A messaging store for reliable messaging between application components.
+
+Azure Disks: Block-level storage volumes for Azure VMs.
+
+ Tags provide extra information, or metadata, about your resources.
+
+
+
+for services information :
+
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-fundamentals/tour-of-azure-services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
